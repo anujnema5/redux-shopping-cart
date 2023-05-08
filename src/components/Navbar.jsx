@@ -14,10 +14,10 @@ const Navbar = () => {
             <Link to={'/cart'} className='flex gap-3 items-center justify-between '>
 
                 <ShoppingBagIcon className='' />
-                <span className='w-6 h-6 p-5 font-semibold flex items-center justify-center bg-[#c9c9ff] border-2 border-slate-200' style={{borderRadius : "50%"}}>{cartTotalQuantity}</span>
+                <span className='w-6 h-6 p-5 font-semibold flex items-center justify-center bg-[#c9c9ff] border-2 border-slate-200' style={{borderRadius : "50%"}}>{cartTotalQuantity}</span>  
             </Link>
         </div>
-    )
+    ) 
 }
 
 export default Navbar
