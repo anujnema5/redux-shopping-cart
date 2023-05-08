@@ -382,23 +382,7 @@ const products = [
             "https://i.dummyjson.com/data/products/21/3.jpg"
         ]
     },
-    {
-        id: 22,
-        title: "Elbow Macaroni - 400 gm",
-        description: "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
-        price: 14,
-        discountPercentage: 15.58,
-        rating: 4.57,
-        stock: 146,
-        brand: "Bake Parlor Big",
-        category: "groceries",
-        thumbnail: "https://i.dummyjson.com/data/products/22/thumbnail.jpg",
-        images: [
-            "https://i.dummyjson.com/data/products/22/1.jpg",
-            "https://i.dummyjson.com/data/products/22/2.jpg",
-            "https://i.dummyjson.com/data/products/22/3.jpg"
-        ]
-    },
+    
     {
         id: 23,
         title: "Orange Essence Food Flavou",
@@ -418,25 +402,7 @@ const products = [
             "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
         ]
     },
-    {
-        id: 24,
-        title: "cereals muesli fruit nuts",
-        description: "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
-        price: 46,
-        discountPercentage: 16.8,
-        rating: 4.94,
-        stock: 113,
-        brand: "fauji",
-        category: "groceries",
-        thumbnail: "https://i.dummyjson.com/data/products/24/thumbnail.jpg",
-        images: [
-            "https://i.dummyjson.com/data/products/24/1.jpg",
-            "https://i.dummyjson.com/data/products/24/2.jpg",
-            "https://i.dummyjson.com/data/products/24/3.jpg",
-            "https://i.dummyjson.com/data/products/24/4.jpg",
-            "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
-        ]
-    },
+    
     {
         id: 25,
         title: "Gulab Powder 50 Gram",
@@ -512,43 +478,6 @@ const products = [
             "https://i.dummyjson.com/data/products/28/3.png",
             "https://i.dummyjson.com/data/products/28/4.jpg",
             "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
-        ]
-    },
-    {
-        id: 29,
-        title: "Handcraft Chinese style",
-        description: "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
-        price: 60,
-        discountPercentage: 15.34,
-        rating: 4.44,
-        stock: 7,
-        brand: "luxury palace",
-        category: "home-decoration",
-        thumbnail: "https://i.dummyjson.com/data/products/29/thumbnail.webp",
-        images: [
-            "https://i.dummyjson.com/data/products/29/1.jpg",
-            "https://i.dummyjson.com/data/products/29/2.jpg",
-            "https://i.dummyjson.com/data/products/29/3.webp",
-            "https://i.dummyjson.com/data/products/29/4.webp",
-            "https://i.dummyjson.com/data/products/29/thumbnail.webp"
-        ]
-    },
-    {
-        id: 30,
-        title: "Key Holder",
-        description: "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
-        price: 30,
-        discountPercentage: 2.92,
-        rating: 4.92,
-        stock: 54,
-        brand: "Golden",
-        category: "home-decoration",
-        thumbnail: "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
-        images: [
-            "https://i.dummyjson.com/data/products/30/1.jpg",
-            "https://i.dummyjson.com/data/products/30/2.jpg",
-            "https://i.dummyjson.com/data/products/30/3.jpg",
-            "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
         ]
     }
 ]
